@@ -1,6 +1,6 @@
 # ESP8266-V0.1-Firmware-For-PS3
 
-* ESP8266 V0.1 Firmware For PS3 4.81+
+## ESP8266 V0.1 Firmware For PS3 4.81+
 * PS3 ESP8266 Firmware for 4.81+ HEN
 * Connect to the Internet "wifi" and go to browser
 * you can use IP address
