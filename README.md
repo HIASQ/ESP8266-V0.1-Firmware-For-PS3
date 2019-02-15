@@ -10,7 +10,5 @@
 * Wifi name: PS3
 * Password: 11111111
  ```
- 
- https://4.bp.blogspot.com/-IgjXVRuVs9w/W_XcR7orLqI/AAAAAAAAAdw/WHQ9JrItUPAVM4a4ihhxCLaZDlhdFA6ggCLcBGAs/s1600/NEW%2BGAME.png
 
 ![alt text](https://4.bp.blogspot.com/-IgjXVRuVs9w/W_XcR7orLqI/AAAAAAAAAdw/WHQ9JrItUPAVM4a4ihhxCLaZDlhdFA6ggCLcBGAs/s1600/NEW%2BGAME.png "image title")
